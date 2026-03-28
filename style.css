@@ -1,3 +1,9 @@
+ html,body{
+width: 100%;
+height: 100%;
+background-color: blanchedalmond;
+ }
+ 
 h1,p{
     display: flex;
     justify-content: center;
@@ -14,4 +20,8 @@ section{
 input{
     width: 50%;
     height:200px;
+}
+button{
+    width: 200px;
+    height: 75px;
 }
